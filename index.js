@@ -30,4 +30,4 @@ for (const file of files) {
   console.log(`✅ ${file} → ${sizeKb} Ko`);
 }
 
-console.log("🎉 Optimisation terminée !");
+console.log("🎉 successfully optimized files !!!");
